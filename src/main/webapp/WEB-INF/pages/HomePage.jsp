@@ -7,7 +7,7 @@
 <title>Contact Info</title>
 </head>
 <body>
-	<center><h3>Welcome to Contact Info Application on Kubernetes Cluster - Update 1</h3></center><br><br>
+	<center><h3>Welcome to Contact Info Application on Kubernetes Cluster - Update</h3></center><br><br>
 	<div align="center">
 		<a href="AddContactController.view">Add Contact</a>
 	</div>
