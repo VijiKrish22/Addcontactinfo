@@ -1,4 +1,4 @@
-# Pull base image - 6
+# Pull base image - 7
 From tomcat:8-jre8
 
 # Maintainer
